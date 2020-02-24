@@ -1,0 +1,2 @@
+Um die Decision_tree ausführen zu können muss das Package Graphviz installiert werden. https://www.graphviz.org/download/
+und dann zur path-variable hinzugefügt werden. (Unter Windwos)
