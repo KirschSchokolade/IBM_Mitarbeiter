@@ -1,2 +1,6 @@
 Um die Decision_tree ausführen zu können muss das Package Graphviz installiert werden. https://www.graphviz.org/download/
 und dann zur path-variable hinzugefügt werden. (Unter Windwos)
+Einige Links, die mit Lösungsansätzen:
+https://stackoverflow.com/questions/18438997/why-is-pydot-unable-to-find-graphvizs-executables-in-windows-8
+https://datascience.stackexchange.com/questions/37428/graphviz-not-working-when-imported-inside-pydotplus-graphvizs-executables-not
+  
